@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ReactDOM from "react-dom";
 import SpellForm from './SpellForm';
 import SpellList from './SpellList';
 
